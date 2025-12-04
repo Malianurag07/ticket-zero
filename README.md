@@ -4,7 +4,7 @@
 
 TicketZero is a Micro-SaaS tool designed for freelance developers and agencies. It uses Multimodal AI (Google Gemini 2.5 Flash) to analyze "angry" non-technical bug reports—including screenshots—and instantly converts them into structured Jira/GitHub tickets.
 
-![Project Screenshot](https://via.placeholder.com/1200x600?text=TicketZero+Dashboard+Preview)
+![App Screenshot](Screenshot%202025-12-04%20183057.png)
 *(Replace this link with a screenshot of your actual app once deployed!)*
 
 ## 🚀 Live Demo
