@@ -8,7 +8,7 @@ TicketZero is a Micro-SaaS tool designed for freelance developers and agencies. 
 *(Replace this link with a screenshot of your actual app once deployed!)*
 
 ## 🚀 Live Demo
-[**Click here to view the Live App**](https://your-project-name.vercel.app)
+[**Click here to view the Live App**](ticket-zero.vercel.app)
 
 ---
 
